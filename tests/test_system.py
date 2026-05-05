@@ -241,3 +241,4 @@ def test_results_r12(driver):
     assert score == "-1"
     assert grade == "-1"
     assert bgcolour.rgb == "rgb(255, 192, 203)"
+
